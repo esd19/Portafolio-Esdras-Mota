@@ -59,7 +59,7 @@ Constancias de Estudios
 ## 📬 Contacto
 - 📧 Email: emota03@hotmail.com(mailto:emota03@hotmail.com)  
 
-- 🖥️ GitHub: [github.com/tuusuario](#)  
+- 🖥️ GitHub: github.com/esd19(#)  
 
 ---
 

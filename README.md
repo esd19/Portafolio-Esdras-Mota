@@ -18,10 +18,11 @@ Me apasiona crear soluciones digitales modernas, escalables y eficientes.
 ### 🌐 Sitios Web y Landing Pages
 He desarrollado páginas web responsivas y modernas para negocios y clientes.  
 Ejemplos:  
-https://grupoarkmet.com/
-https://artequilapersonalizado.com/
-https://www.umg.mx/
-https://esdex.com.mx/
+- [Grupo Arkmet](https://grupoarkmet.com/) 🏗️  
+- [Artequila Personalizado](https://artequilapersonalizado.com/) 🎨  
+- [UMG Universidad](https://www.umg.mx/) 🎓  
+- [Esdex](https://esdex.com.mx/) 🌐  
+
 
 <img width="1742" height="607" alt="image" src="https://github.com/user-attachments/assets/efd4ea45-41e6-44cd-9f75-70392e5e2973" />
 
@@ -47,19 +48,24 @@ Constancias de Estudios
 <img width="886" height="965" alt="umg-constancia" src="https://github.com/user-attachments/assets/cde81093-9a47-4a54-a3f7-5b6936e7317f" />
 
 
-
-
 ---
 
 ## 📄 CV
 👉 [Descargar mi CV](cv-esdras.pdf) *(sube tu PDF al repo y cámbiale el nombre aquí)*  
 
 ---
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## 📬 Contacto
-- 📧 Email: emota03@hotmail.com(mailto:emota03@hotmail.com)  
-
-- 🖥️ GitHub: github.com/esd19(#)  
+- 📧 Email: [emota03@hotmail.com](mailto:emota03@hotmail.com)  
+- 🖥️ GitHub: [github.com/esd19](https://github.com/esd19)  
 
 ---
 

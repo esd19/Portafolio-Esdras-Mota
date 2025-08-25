@@ -38,13 +38,13 @@ A partir de la base de datos se pueden:
 🛠️ **Tecnologías:** Node.js, PHP, MySQL, JavaScript, HTML, CSS  
 
 📸 **Capturas de pantalla** 
-Pagina de inicio de sesion administrativo
+**Página de inicio de sesión administrativo**  
 <img width="1103" height="690" alt="image" src="https://github.com/user-attachments/assets/346ba2b7-677d-4a9a-bc5f-e885e0e82896" />
-Menu del sistema
+**Menu del sistema**
 <img width="1011" height="621" alt="umg-menu" src="https://github.com/user-attachments/assets/80e649a6-0798-48f9-b3b2-4d9208a4bddf" />
-Cartas pasantes
+**Cartas pasantes**
 <img width="1920" height="950" alt="umg-carta" src="https://github.com/user-attachments/assets/372e8498-7ea9-4b92-a1b0-ecae3eceb518" />
-Constancias de Estudios
+**Constancias de Estudios**
 <img width="886" height="965" alt="umg-constancia" src="https://github.com/user-attachments/assets/cde81093-9a47-4a54-a3f7-5b6936e7317f" />
 
 

@@ -21,8 +21,8 @@ Ejemplos:
 - <a href="https://grupoarkmet.com/" target="_blank">Grupo Arkmet 🏗️</a>  
 - <a href="https://artequilapersonalizado.com/" target="_blank">Artequila Personalizado 🎨</a>  
 - <a href="https://www.umg.mx/" target="_blank">UMG Universidad 🎓</a>  
-- <a href="https://soluciones-lyf.com//" target="_blank">Soluciones-ecologicas 🌐</a>  
-- <a href="https://esdex.com.mx/" target="_blank">Esdex 🌳</a>
+- <a href="https://soluciones-lyf.com//" target="_blank">Soluciones-ecologicas 🌳</a>  
+- <a href="https://esdex.com.mx/" target="_blank">Esdex 🌐</a>
   
 
 

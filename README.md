@@ -12,24 +12,29 @@ Me interesa diseñar y desarrollar soluciones tecnológicas que resuelvan proble
 
 **Lenguajes de programación:**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript- F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend y bases de datos:**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Datos y herramientas:**
 
@@ -37,29 +42,39 @@ Me interesa diseñar y desarrollar soluciones tecnológicas que resuelvan proble
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 💼 Experiencia y proyectos destacados
 
-### 🏢 Pabemel | Plataforma web empresarial
+### 🏢 Pabemel | Catálogo de Refrigeración Industrial
 
-🌐 [Visitar Pabemel](https://pabemel.com/)
-
-Desarrollo de una plataforma web corporativa para una empresa especializada en refrigeración industrial.
+Desarrollo de un sitio web corporativo para una empresa especializada en refrigeración industrial. El proyecto se realizó desde cero, incluyendo el diseño de la interfaz, la organización del catálogo digital y la presentación de sus productos y servicios.
 
 - Desarrollo del sitio web desde cero.
-- Implementación de una interfaz responsiva y catálogo digital de productos.
-- Desarrollo de funcionalidades frontend y participación en la solución backend.
-- Integración de tecnologías web y bases de datos para la gestión de información.
+- Diseño de una interfaz responsiva y orientada a la presentación de productos.
+- Implementación de un catálogo digital para equipos y refacciones industriales.
+- Organización de productos y contenido para facilitar su consulta.
+- Integración de funcionalidades frontend y backend.
 
 **Tecnologías:** HTML, CSS, JavaScript, React, PHP y MySQL.
+
+<p align="center">
+  <a href="https://pabemel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/pabemel.png" alt="Catálogo web de Pabemel - Refrigeración Industrial" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pabemel.com/" target="_blank" rel="noopener noreferrer">🌐 Visitar sitio web de Pabemel</a>
+</p>
 
 ---
 
 ### 🎓 Sistema Universitario de Certificados y Constancias
 
-Sistema web orientado a la administración de información académica y automatización de procesos administrativos.
+Sistema web orientado a la administración de información académica y la automatización de procesos administrativos para la gestión de documentos institucionales.
 
 **Principales funcionalidades:**
 
@@ -113,28 +128,34 @@ Desarrollé un script que procesa publicaciones sintéticas almacenadas en archi
 
 También he participado en el desarrollo de sitios web para diferentes negocios y organizaciones, trabajando en interfaces responsivas, formularios, optimización y funcionalidades web.
 
-Algunos proyectos:
+**Algunos proyectos:**
 
-- <a href="https://grupoarkmet.com/" target="_blank">Grupo Arkmet 🏗️</a>
-- <a href="https://artequilapersonalizado.com/" target="_blank">Artequila Personalizado 🎨</a>
-- <a href="https://www.umg.mx/" target="_blank">UMG Universidad 🎓</a>
-- <a href="https://soluciones-lyf.com/" target="_blank">Soluciones Ecológicas 🌳</a>
-- <a href="https://esdex.com.mx/" target="_blank">Esdex 🌐</a>
+- <a href="https://grupoarkmet.com/" target="_blank" rel="noopener noreferrer">Grupo Arkmet 🏗️</a>
+- <a href="https://artequilapersonalizado.com/" target="_blank" rel="noopener noreferrer">Artequila Personalizado 🎨</a>
+- <a href="https://www.umg.mx/" target="_blank" rel="noopener noreferrer">UMG Universidad 🎓</a>
+- <a href="https://soluciones-lyf.com/" target="_blank" rel="noopener noreferrer">Soluciones Ecológicas 🌳</a>
+- <a href="https://esdex.com.mx/" target="_blank" rel="noopener noreferrer">Esdex 🌐</a>
 
-<img width="1742" alt="Proyectos web desarrollados" src="https://github.com/user-attachments/assets/efd4ea45-41e6-44cd-9f75-70392e5e2973" />
+<p align="center">
+  <img width="100%" alt="Proyectos web desarrollados" src="https://github.com/user-attachments/assets/efd4ea45-41e6-44cd-9f75-70392e5e2973" />
+</p>
 
 ---
 
 ## 📄 Currículum
 
-👉 [Consultar mi CV](cv-esdras.pdf)
+<p align="left">
+  <a href="cv-esdras.pdf" target="_blank" rel="noopener noreferrer">
+    📄 Consultar mi CV
+  </a>
+</p>
 
 ---
 
 ## 📬 Contacto
 
 - 📧 **Email:** [emota03@hotmail.com](mailto:emota03@hotmail.com)
-- 🖥️ **GitHub:** [github.com/esd19](https://github.com/esd19)
+- 🖥️ **GitHub:** <a href="https://github.com/esd19" target="_blank" rel="noopener noreferrer">github.com/esd19</a>
 
 ---
 

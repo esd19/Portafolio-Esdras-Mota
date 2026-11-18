@@ -59,9 +59,11 @@ Desarrollo de un sitio web corporativo para una empresa especializada en refrige
 
 <p align="center">
   <a href="https://pabemel.com/" target="_blank" rel="noopener noreferrer">
-    <img src="assets/pabemel.png" alt="Catálogo web de Pabemel - Refrigeración Industrial" width="100%">
+    <img width="1270" height="871" alt="image" src="https://github.com/user-attachments/assets/270ff26b-976a-4f98-aff6-8500b95f5cd9" />
+
   </a>
-</p>
+</p>![Uploading image.png…]()
+
 
 <p align="center">
   <a href="https://pabemel.com/" target="_blank" rel="noopener noreferrer">🌐 Visitar sitio web de Pabemel</a>

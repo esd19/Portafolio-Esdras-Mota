@@ -144,7 +144,7 @@ También he participado en el desarrollo de sitios web para diferentes negocios 
 ## 📄 Currículum
 
 <p align="left">
-  <a href="cv-esdras.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="cv_esdras.pdf" target="_blank" rel="noopener noreferrer">
     📄 Consultar mi CV
   </a>
 </p>
